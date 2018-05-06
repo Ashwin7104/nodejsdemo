@@ -10,5 +10,9 @@
     },
     "scripts": {
         "start": "node index.js"
+    },
+    "dependencies": {
+        "async": "^2.6.0",
+        "tedious": "^2.3.1"
     }
 }
